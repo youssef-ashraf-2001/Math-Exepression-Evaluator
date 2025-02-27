@@ -1,0 +1,14 @@
+E:\LEGION\Work\MathExepression\bin\Debug\net8.0\MathExepression.exe
+E:\LEGION\Work\MathExepression\bin\Debug\net8.0\MathExepression.deps.json
+E:\LEGION\Work\MathExepression\bin\Debug\net8.0\MathExepression.runtimeconfig.json
+E:\LEGION\Work\MathExepression\bin\Debug\net8.0\MathExepression.dll
+E:\LEGION\Work\MathExepression\bin\Debug\net8.0\MathExepression.pdb
+E:\LEGION\Work\MathExepression\obj\Debug\net8.0\MathExepression.GeneratedMSBuildEditorConfig.editorconfig
+E:\LEGION\Work\MathExepression\obj\Debug\net8.0\MathExepression.AssemblyInfoInputs.cache
+E:\LEGION\Work\MathExepression\obj\Debug\net8.0\MathExepression.AssemblyInfo.cs
+E:\LEGION\Work\MathExepression\obj\Debug\net8.0\MathExepression.csproj.CoreCompileInputs.cache
+E:\LEGION\Work\MathExepression\obj\Debug\net8.0\MathExepression.dll
+E:\LEGION\Work\MathExepression\obj\Debug\net8.0\refint\MathExepression.dll
+E:\LEGION\Work\MathExepression\obj\Debug\net8.0\MathExepression.pdb
+E:\LEGION\Work\MathExepression\obj\Debug\net8.0\MathExepression.genruntimeconfig.cache
+E:\LEGION\Work\MathExepression\obj\Debug\net8.0\ref\MathExepression.dll
